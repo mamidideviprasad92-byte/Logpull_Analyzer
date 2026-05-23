@@ -1,0 +1,19 @@
+Hi <Manager Name>,
+I hope you’re doing well. I wanted to share an internal tool I’ve developed that can significantly improve the efficiency and consistency of our broadband gateway log analysis process.
+Problem
+Today, analyzing log pulls is a manual, time‑consuming, and error‑prone task. Engineers typically spend 30–45 minutes per device extracting logs, searching for key events, identifying anomalies, and preparing summaries. As our test volume increases, this manual workflow has become a bottleneck.
+Solution: Log Pull Analyzer
+I’ve built a web‑based tool that automates the entire log analysis workflow. It supports ZIP/7Z/TGZ/TAR log pulls, auto‑extracts and parses logs, detects anomalies, highlights severity, generates interactive charts, and produces exportable PDF/HTML reports. The UI is clean, modern, and easy to use.
+Benefits
+- Reduces analysis time from 45 minutes to under 2 minutes
+- Improves accuracy through automated anomaly detection
+- Standardizes reporting with one‑click PDF/HTML exports
+- Enhances visibility with interactive charts and severity‑based color coding
+- Accessible to the entire team via browser — no installation required
+Request
+To make this tool available to the QA team, I’d like approval to host it on an internal Windows PC.
+This setup is secure, lightweight, and runs entirely within our internal network.
+Once deployed, the team will be able to access the tool using a simple internal URL.
+I’m happy to walk you through a demo if you’d like to see it in action.
+Thanks,
+Devi
